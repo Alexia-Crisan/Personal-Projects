@@ -7,7 +7,7 @@ and displays a quote based on their selection, offering an interactive
 and uplifting experience.
 
 ### Key Features:
-+ **Category Selection:++ The system begins by displaying four
++ **Category Selection:** The system begins by displaying four
 categories of quotes on the OLED display, labeled A, B, C, and D. Each
 category represents a different type of inspirational message (Success,
 Happiness, Motivation, Positivity). The user must press a key on the
